@@ -4,7 +4,7 @@
     font-family: 'Varela Round', sans-serif;
 }
 .header{
-    background-image:url('/art-attack-vector-logo-free-download-11573980904pirqo6pene-removebg-preview\ \(1\).png');
+    background-image:url('/header.png');
     background-repeat: no-repeat;
     width: 100%;
     height: 45vh;
@@ -43,122 +43,8 @@
     font-family: 'Birthstone', cursive;
     font-size: 30px;
 }
-/* .heading{
-    display: flex;
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    top: 25%;
-    font-family: 'Birthstone', cursive;
-    
-    
-} */
-/* Making a slider */
-/* .slider{
-    background-image:url('/1632490723595.jpg');
-    background-repeat: no-repeat;
-    width: 100vw;
-    height: 45vh;
-    background-size: 100% 100%;
-    animation: slider 10s  1s infinite;
-    animation-timing-function: step-start;   
-} */
-/* Animations */
 
-/* .wrapper{
-    font-size: 50px;
-    display: flex;
-    position: relative;
-    top: 22%;
-}
-#bru{
-    position: absolute;
-    left: 25%;
-     font-size: 100px; 
-    animation-name: brush;
-    animation-duration: 5s; 
-    animation-fill-mode: forwards; 
-}
-/* .brush{
-    position: relative;
-    left: 25%;
-    visibility: hidden;
-    animation: head 3s ease-out 5s infinite ;
-    font-family: 'Tangerine';
-    text-decoration: underline;
 
-} */
-/* @keyframes brush{
-    0%{
-        color: chartreuse;
-        left: 25%;
-       
-    }
-     25%{
-         color: rgba(0, 255, 255, 0.925);
-    }
-    50%{
-        color: rgba(139, 0, 139, 0.623);
-          left: 50%;
-          
-
-    }
-    75%{
-        color: rgba(255, 105, 180, 0.986);
-    }
-    100%{ 
-        color: gold;
-        visibility: hidden;
-    } 
-    
-}
-@keyframes head{
-    0%{
-        color: chartreuse;
-        visibility:visible;
-       
-    }
-     25%{
-         color: rgba(0, 255, 255, 0.925);
-         visibility:visible;
-    }
-    50%{
-        color: rgba(139, 0, 139, 0.623);
-        visibility:visible;
-    }
-    75%{
-        color: rgba(255, 105, 180, 0.986);
-        visibility:visible;
-    }
-    100%{ 
-        color: gold;
-        visibility:visible;
-        
-    } 
-} */ 
-
-/*Adding key frames to the slider */
-/* @keyframes slider{
-    0%{
-            background-image: url('/My sketches/IMG_20210110_152634.jpg');
-    }
-    25%{
-        background-image: url('/My sketches/1625478543442.jpg');
-
-    }
-    50%{
-        background-image: url('My sketches/IMG_20210509_150348.jpg');
-
-    }
-    75%{
-        background-image: url('/My sketches/IMG_20210202_125646.jpg');
-
-    }
-    100%{
-        background-image: url('/My sketches/1625478711087.jpg');
-
-    }
-} */
 /* Gallery Section */
 .gallery{
     display: flex;
@@ -185,7 +71,7 @@ img{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* background-image: linear-gradient(to bottom right,rgba(99, 245, 42, 0.808),rgba(243, 243, 45, 0.849)); */
+    
 }
 /* Profile pic styling */
 .profile{
